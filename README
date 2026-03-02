@@ -10,6 +10,7 @@ A simple CLI application in Go for converting units of measurement.
 
 ## Setup
 ```bash
+mkdir unit-converter
 go mod init unit-converter
 touch main.go
 ```
