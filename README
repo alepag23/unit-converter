@@ -21,7 +21,7 @@ go run main.go
 ```
 
 ## Example Output
-```
+```text
 23 km = 14.26 miles
 100 kg = 220.50 lbs
 30° C = 86.00 °F
